@@ -1,0 +1,28 @@
+{
+	"RootView":{
+		"bgColor":"FFFFFF00",
+		"id":"AlayoutRoot",
+		"height":"100",
+		"views":[
+			{
+				"id":"lbtext",
+				"height":"64",
+				"width":"-1",
+				"fontSize":"22",
+				"type":"do_Label",
+				"y":"14",
+				"x":"30"
+			},
+			{
+				"bgColor":"C0C0C0FF",
+				"id":"do_alayout_1",
+				"height":"1",
+				"width":"480",
+				"type":"do_ALayout",
+				"y":"99"
+			}
+		],
+		"width":"480",
+		"type":"do_ALayout"
+	}
+}
