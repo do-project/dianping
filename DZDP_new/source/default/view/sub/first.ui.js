@@ -19,13 +19,11 @@ timer.on("tick", function(){
 	minuteLabel.text = minute;
 	secondLabel.text = second;
 	second--;
-	if(second < 0)
-	{
+	if(second < 0){
 		second = 59;
 		minute--;
 	}
-	if(minute < 0)
-	{
+	if(minute < 0){
 		minute = 59;
 		hour--;
 	}

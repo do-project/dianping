@@ -372,9 +372,39 @@
 							}
 						],
 						"height":"59"
+					},
+					{
+						"bgColor":"FFFFFFFF",
+						"width":"159",
+						"x":"1",
+						"y":"180",
+						"id":"pay",
+						"type":"do_ALayout",
+						"views":[
+							{
+								"x":"10",
+								"width":"35",
+								"y":"12",
+								"id":"do_ImageView_8",
+								"source":"source://image/first/sub4.png",
+								"type":"do_ImageView",
+								"height":"35"
+							},
+							{
+								"x":"60",
+								"width":"98",
+								"y":"10",
+								"fontSize":"20",
+								"id":"do_Label_5",
+								"text":"买单",
+								"type":"do_Label",
+								"height":"40"
+							}
+						],
+						"height":"59"
 					}
 				],
-				"height":"180"
+				"height":"240"
 			}
 		],
 		"height":"854"
