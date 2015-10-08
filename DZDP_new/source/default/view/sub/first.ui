@@ -256,14 +256,14 @@
 										"height":"133"
 									},
 									{
-										"width":"120",
+										"width":"143",
 										"x":"20",
 										"y":"778",
 										"fontSize":"23",
 										"id":"do_Label_1",
 										"text":"猜你喜欢",
 										"type":"do_Label",
-										"fontColor":"C0C0C0FF",
+										"fontColor":"808080FF",
 										"height":"40"
 									}
 								],
